@@ -2,6 +2,7 @@
 #include "kernel/stat.h"
 #include "user/user.h"
 
+//lab4 : for debug
 char buf[512];
 
 void
